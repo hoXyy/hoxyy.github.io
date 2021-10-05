@@ -1,0 +1,15 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+::selection {
+    background-color: rgb(144, 99, 250);
+    color: rgb(245, 245, 245);
+}
+
+::-moz-selection {
+    background-color: rgb(144, 99, 250);
+    color: rgb(245, 245, 245);
+}
