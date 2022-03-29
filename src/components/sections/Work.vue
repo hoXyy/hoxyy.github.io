@@ -43,17 +43,29 @@ export default {
                     img: 'gsps-layouty-old.jpg',
                     alt: 'Grafiki GSPS (2019 - 2021)',
                     title: 'Grafiki GSPS (2019 - 2021)',
-                    desc: 'Oparte na grafikach używanych podczas "Awesome Games Done Quick 2018"',
+                    desc: 'Grafiki używane podczas wydarzeń charytatywnych z serii "Gramy Szybko, Pomagamy Skutecznie", oparte na grafikach używanych podczas "Awesome Games Done Quick 2018"',
                     href: 'https://www.youtube.com/playlist?list=PLGZ-4E5LK_p0SEHmt-BJ0XmLXxqA8ADSq',
                     tags: [
                         {name: 'Polymer', classes: ['bg-red-500', 'text-white']}
                     ]
                 },
                 {
+                    img: 'gsps-layouty.jpg',
+                    alt: 'Grafiki GSPS (2022 - teraz)',
+                    title: 'Grafiki GSPS (2022 - teraz)',
+                    desc: 'Grafiki używane podczas wydarzeń charytatywnych z serii "Gramy Szybko, Pomagamy Skutecznie", zrobione od zera dla potrzeb eventu',
+                    href: 'https://github.com/gramypomagamy/gsps-layouts',
+                    tags: [
+                        {name: 'Vue.js', classes: ['bg-green-500', 'text-white']},
+                        {name: 'Vuex', classes: ['bg-green-700', 'text-white']},
+                        {name: 'Vuetify', classes: ['bg-gray-700', 'text-white']}
+                    ]
+                },
+                {
                     img: 'bingo.jpg',
                     alt: 'Bingo Sheet File Generator',
                     title: 'Bingo Sheet File Generator',
-                    desc: 'Narzędzie do generowania pliku z arkuszem bingo',
+                    desc: 'Narzędzie do generowania pliku z arkuszem bingo dla specjalnego narzędzia',
                     href: 'https://bingo-sheet-file-generator.herokuapp.com/',
                     tags: [
                         {name: 'Vue.js', classes: ['bg-green-500', 'text-white']},

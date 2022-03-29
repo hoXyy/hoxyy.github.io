@@ -7,9 +7,6 @@
             <a title="Mój Twitter" href="https://twitter.com/hoXyy_">
                <font-awesome-icon class="hover:text-gray-300" :icon="['fab', 'twitter']"/>         
             </a>
-            <a title="Mój Twitch" href="https://www.twitch.tv/hoxi___">
-               <font-awesome-icon class="hover:text-gray-300" :icon="['fab', 'twitch']"/>         
-            </a>
             <a title="Kontakt mailowy" href="mailto:paw.zatoka@protonmail.com">
                <font-awesome-icon class="hover:text-gray-300" :icon="['fas', 'envelope']"/>         
             </a>

@@ -1,5 +1,5 @@
 <template>
-    <a :href="href" class="pb-5">
+    <a :href="href" target="_blank" class="pb-5">
         <div id="card" class="transition duration-150 ease-in-out transform-gpu hover:-translate-y-2 filter drop-shadow-2xl rounded-xl bg-white dark:bg-gray-900 dark:text-white text-center">
             <img :alt="alt" :src="require('@/assets/work/' + img + '')" class="mb-5 rounded-t-xl"/>
             <span class="font-bold text-2xl">{{ title }}</span>
@@ -23,7 +23,7 @@ export default {
 <style>
     #card {
         width: 350px;
-        height: 370px;
+        height: 400px;
     }
 
     .pill {
