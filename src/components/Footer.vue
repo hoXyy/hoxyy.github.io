@@ -16,7 +16,7 @@
           :icon="['fab', 'twitter']"
         />
       </a>
-      <a title="Kontakt mailowy" href="mailto:paw.zatoka@protonmail.com">
+      <a title="Kontakt mailowy" href="mailto:zatoka.paw@gmail.com">
         <font-awesome-icon
           class="hover:text-gray-300"
           :icon="['fas', 'envelope']"
